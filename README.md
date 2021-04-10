@@ -4,10 +4,7 @@
 - 👀 I’m interested in art, technology, and dogs.
 - 🌱 I’m currently learning full stack application development using Laravel and Vue.js.
 - 📫 You can reach me through my email: erronintila@gmail.com
-💻 PHP Developer 
-📡 Web Enthusiast 
-🍵 Passionate Tea Drinker 
-🎧 Music Geek
+
 <h2>Skills</h2>
 
 <h3>Languages</h3>
