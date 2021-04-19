@@ -23,6 +23,7 @@ A software developer who loves design, technology, and movies.
 ### Platforms
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux-Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
 
 ### Storage
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
