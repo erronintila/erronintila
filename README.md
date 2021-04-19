@@ -30,7 +30,7 @@ A software developer who loves design, technology, and movies.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
-Postman
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### Education
 Bachelor of Science in Information Technology (STI College)
