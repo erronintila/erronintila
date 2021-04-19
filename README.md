@@ -27,7 +27,7 @@ A software developer who loves design, technology, and movies.
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 Postman
 
