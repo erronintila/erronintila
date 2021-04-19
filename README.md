@@ -39,7 +39,7 @@ A software developer who loves design, technology, and movies.
 Bachelor of Science in Information Technology (STI College)
 
 ## Connect with me
-<a href="https://righttwitter.com/eronintilla">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)</a>
+<a href="https://twitter.com/eronintilla" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)</a>
 
 
 ![Google Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
