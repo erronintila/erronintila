@@ -1,12 +1,12 @@
-<h1 align="center">Hi there! I'm <Erron Intila/></h1>
+<h1 align="center">Hi there! I'm Erron Intila</h1>
 <p align="center"><i>A software developer who loves design, technology, and movies.</i></p>
 
-
-💡 I’m currently learning Test-Driven Development with Laravel and Nuxt.js <br/>
-😄 Preferred Environment: 
+⚡ Preferred Environment: 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) <br/>
+💡 I’m currently learning Test-Driven Development with Laravel and Nuxt.js <br/>
+😄 Fun fact: I am passionate tea drinker and I love playing chess. <br/>
 
 ### Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
