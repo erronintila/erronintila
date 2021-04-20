@@ -1,5 +1,12 @@
 <h1 align="center">Hi there! I'm Erron Intila</h1>
-<p align="center">A software developer who loves design, technology, and movies.</p><br/>
+<p align="center">A software developer who loves design, technology, and movies.</p>
+
+
+💡 I’m currently learning Test-Driven Development with Laravel and Nuxt.js <br/>
+😄 Preferred Environment: 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ### Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -31,12 +38,6 @@
 
 ### Education
 Bachelor of Science in Information Technology (STI College)
-
-💡 I’m currently learning Test-Driven Development with Laravel and Nuxt.js <br/>
-😄 Preferred Environment: 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Connect with me
 <a href="https://mail.google.com/a?view=cm&fs=1&to=erronintila@gmail.com" target="_blank">![Google Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
