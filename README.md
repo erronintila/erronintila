@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! I'm Erron Intila</h1>
-<p align="center">A software developer who loves design, technology, and movies.</p>
+<h1 align="center">Hi there! I'm <Erron Intila/></h1>
+<p align="center"><i>A software developer who loves design, technology, and movies.</i></p>
 
 
 💡 I’m currently learning Test-Driven Development with Laravel and Nuxt.js <br/>
